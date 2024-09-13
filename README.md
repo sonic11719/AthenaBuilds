@@ -7,15 +7,17 @@ If there's some errors or links down please contact Tiva or ByZN on discord : @i
 
 ## Season 0/1
 
-1.7.2-CL-3700114 (1.7.2) : [Download](https://public.simplyblk.xyz/1.7.2.zip)
+1.7.2-CL-3700114 (1.7.2) : [Download](https://public.simplyblk.xyz/1.7.2.zip) 29 Days (September 26 - October 24)
 
-1.8-CL-3724489 (1.8) : [Download](https://public.simplyblk.xyz/1.8.rar)
+1.8-CL-3724489 (1.8) : [Download](https://public.simplyblk.xyz/1.8.rar) 16 Days (October 25 - November 10)
 
-1.10-CL-3790078 (1.10) : [Download](https://public.simplyblk.xyz/1.10.rar)
+1.10-CL-3790078 (1.10) : [Download](https://public.simplyblk.xyz/1.10.rar) 25 Days (November 11 - December 06)
 
 ## Season 2
 
-2.4.0-CL-3858292 (2.4) : [Download](https://public.simplyblk.xyz/2.4.0.zip)
+1.11-CL-3807424 (1.11) : [Download](https://public.simplyblk.xyz/1.11.zip) 20 Days (December 07 - December 27)
+
+2.4.0-CL-3858292 (2.4) : [Download](https://public.simplyblk.xyz/2.4.0.zip) 23 Days (December 28 - January 20)
 
 ## Season 3
 

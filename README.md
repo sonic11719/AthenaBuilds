@@ -5,23 +5,21 @@ These are all the builds for Athena! I am not the owner of any of these builds, 
 If there's some errors or links down please contact Tiva or ByZN on discord : @itztiva or @wallonia
 
 
-## Season 0/1
+## Season 1
 
-1.7.2-CL-3700114 (1.7.2) : [Download](https://public.simplyblk.xyz/1.7.2.zip) 29 Days (September 26 - October 24)
+1.8-CL-3724489 (1.8) : [Download](https://public.simplyblk.xyz/1.8.rar)
 
-1.8-CL-3724489 (1.8) : [Download](https://public.simplyblk.xyz/1.8.rar) 16 Days (October 25 - November 10)
-
-1.10-CL-3790078 (1.10) : [Download](https://public.simplyblk.xyz/1.10.rar) 25 Days (November 11 - December 06)
+1.10-CL-3790078 (1.10) : [Download](https://public.simplyblk.xyz/1.10.rar)
 
 ## Season 2
 
-1.11-CL-3807424 (1.11) : [Download](https://public.simplyblk.xyz/1.11.zip) 20 Days (December 07 - December 27)
+1.11-CL-3807424 (1.11) : [Download](https://public.simplyblk.xyz/1.11.zip)
 
-2.4.0-CL-3858292 (2.4) : [Download](https://public.simplyblk.xyz/2.4.0.zip) 23 Days (December 28 - January 20)
+2.4.0-CL-3858292 (2.4) : [Download](https://public.simplyblk.xyz/2.4.0.zip)
 
 ## Season 3
 
-3.6-CL-4019403 [Download](https://drive.google.com/file/d/1U1z-PepqM67wl6IBY84CdA9enLsNXF3J/view?usp=sharing)
+3.6-CL-4019403 (3.6) : [Download](https://drive.google.com/file/d/1U1z-PepqM67wl6IBY84CdA9enLsNXF3J/view?usp=sharing)
 
 ## Season 4
 

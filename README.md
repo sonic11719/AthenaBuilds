@@ -41,8 +41,6 @@ If there's some errors or links down please contact Tiva or ByZN on discord : @i
 
 ## Season 8
 
-8.50-CL-6058028 (8.50) : [Download](https://public.simplyblk.xyz/8.50.zip)
-
 8.51-CL-N/A (8.51) : [Download](https://public.simplyblk.xyz/8.51.rar)
 
 ## Season 9
